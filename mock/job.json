@@ -1,0 +1,26 @@
+{
+    "job": {
+      "averagePrintTime": null,
+      "estimatedPrintTime": null,
+      "filament": null,
+      "file": {
+        "date": 1573638437,
+        "display": "CE3_LaunchBoard_v4.gcode",
+        "name": "CE3_LaunchBoard_v4.gcode",
+        "origin": "local",
+        "path": "CE3_LaunchBoard_v4.gcode",
+        "size": 3483088
+      },
+      "lastPrintTime": null,
+      "user": "hdo"
+    },
+    "progress": {
+      "completion": 75.64451429306408,
+      "filepos": 2634765,
+      "printTime": 10097,
+      "printTimeLeft": 3408,
+      "printTimeLeftOrigin": "estimate"
+    },
+    "state": "Printing"
+  }
+  
